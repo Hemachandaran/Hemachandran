@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hemachandran N <br/><a href="https://www.linkedin.com/in/hemachandran-n">Programmer</a>, <a href="">Aspiring Data Scintist / Ml Engineer  </a></h1>
 
-# 👨‍💻 Learnign Data Science | Machine Learning:
+# 👨‍💻 Learnign Data Science | Machine Learning:  
 -resources:
     '''
     [An Introduction to Statistical Learning](https://www.statlearning.com/)
