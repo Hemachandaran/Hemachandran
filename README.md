@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hemachandran N <br/><a href="https://www.linkedin.com/in/hemachandran-n">Programmer</a>, <a href="">Aspiring Data Analyst /Data engineer</a></h1>
+<h1>Hi, I'm Hemachandran N <br/><a href="https://www.linkedin.com/in/hemachandran-n">Programmer</a>, <a href="">Aspiring Data Scintist /Ml Engineer  </a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
