@@ -3,7 +3,6 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>DATA PROJECTS</b>
-  - [Amazon Web Scraping](https://github.com/Hemachandaran/Amazon-Web-Scraping)
   - [ETL](https://github.com/Hemachandaran/ETL/tree/main)
   - [Analyzing Historical Stock](https://github.com/Hemachandaran/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)
   
